@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #2d3a35;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.span {
+  color: #c20a72;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+}
